@@ -5,17 +5,21 @@ Creates a new, empty Git repository in the current folder
 2. Git add .
 Adds the changes so they’re included in the next commit to the current directory.
 
+
 3. Git status
 Shows the files in the repository that are modified, staged, or untracked, and which branch you’re on.
+
 
 4. Git commit
 Saves the files changes as a snapshot in the repository, with a message describing the change in GitHub.
 
+
 5. Git remote
 Connects to remote repositories on GitHub, origin is the name for the main remote which you also add the URL of your repository in GitBash with.
 
+
 6. Git push
-Uploads your latest commit to the repository.
+Uploads your latest commit to the repository
 
 7. Git branch
 Lists, creates, or deletes branches using, git branch feature-x to create a new branch and git branch -d feature-x deletes a merged branch
@@ -25,8 +29,10 @@ Combines another branch into your current branch used for our group work and pro
 9. Git pull
 Fetches changes from a remote repository and merges them into your current branch.
 
+
 10. Git config
 Gets or sets Git configuration, such as your identity, default editor, or aliases if it does not already know the user or there are multiple users on the system.
+
 
 
 
